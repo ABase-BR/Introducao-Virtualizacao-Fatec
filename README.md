@@ -5,7 +5,7 @@ Esse material é introdutório para amigos que estão começando e precisam de u
 ## Entendendo Virtualização
 - [O que é Virtualização](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/O-que-e-virtualizacao.md)
 
-- [Antes de começar](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/Antes-de-comecar-virtualizacao.md
+- [Antes de começar](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/Antes-de-comecar-virtualizacao.md)
 
 ## Virtualbox
 - [O que é Virtualbox?](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/O-que-e-Virtualbox.md)
