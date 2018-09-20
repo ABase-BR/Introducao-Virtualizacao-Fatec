@@ -51,4 +51,4 @@ Além de novas versões ele sempre tem novas funcionalidades , novos recursos , 
 Atualmente o Virtualbox disponibiliza novas versões com uma certa frequência , tudo isso graças a sua comunidade que é incentivada a contribuir ,já a Oracle é a empresa responsável por trás do Virtualbox e ajuda a manter sempre os critérios de qualidade.
 
 ## Referencias 
-[Oracle VirtualBox] (https://www.virtualbox.org/wiki/) - 28-08-2018-15:07
+[Oracle VirtualBox](https://www.virtualbox.org/wiki/) - 28-08-2018-15:07
