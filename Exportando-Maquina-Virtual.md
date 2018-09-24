@@ -13,10 +13,14 @@ Agora vamos decidir o nome e o formato que vamos exportar a nossa VM , no meu ca
 
 Irei usar o formato padrão **OVF 1.0**.
 
+O Open Virtualization Format é um padrão aberto para empacotar e distribuir maquinas virtuais.
+
 ![Instalação Virtualbox no Windows](https://raw.githubusercontent.com/ABase-BR/abase-br.github.io/master/images/Virtualbox/Exportando-Maquina-Virtual/03-exportando-vm-kali.png)
 
-Agora decidimos descrições sobre a maquina , é simples ! Com um simples duplo click podemos modificar , como eu vou compartilhar essa maquina no mega não irei mudar.
+Agora decidimos descrições sobre a maquina e é bem simples realizar a configuração! 
+
+Com um simples duplo click podemos modificar , como eu vou compartilhar essa maquina no mega não irei mudar.
 
 ![Instalação Virtualbox no Windows](https://raw.githubusercontent.com/ABase-BR/abase-br.github.io/master/images/Virtualbox/Exportando-Maquina-Virtual/04-exportando-vm-kali.png)
 
-Simples não ?
+
