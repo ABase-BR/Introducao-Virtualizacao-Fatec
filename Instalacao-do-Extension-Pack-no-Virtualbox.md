@@ -1,13 +1,19 @@
 # Instalação do Extension Pack no Virtualbox
 
 ## Sobre o Extension Pack
-Suporte para USB 2.0 e USB 3.0 dispositivos, VirtualBox RDP , criptografia de disco e de inicialização PXE para Intel cartões.
+O Extension Pack é uma extensão que nos auxiliar em um maior suporte entre
+- USB 2.0 
+- USB 3.0 
+- VirtualBox RDP 
+- Criptografia de disco 
+- Inicialização PXE para Intel cartões.
 
 Para melhor uso do **Virtualbox** é necessario a instalação do Extension Pack , ele é multiplataforma mais precisamos ficar de olho na versão do Extension Pack .
 
 ## Escolhendo a versão correta
-Caso estou usando a versão **VirtualBox 5.1.6** , só atualmente ele está na versão **5.2.12**.
+Com o Virtualbox já instalado podemos ver qual a versão dele , exemplos
 
+Caso ele esteja usando a versão **5.1.6**.
 ```sh
  http://download.virtualbox.org/virtualbox/5.1.6/Oracle_VM_VirtualBox_Extension_Pack-5.1.6-110634.vbox-extpack
 ```
@@ -21,11 +27,11 @@ Agora vamos instalar a **extension pack** , para isso vá para a pagina de downl
 
 ![Instalando Extension Pack](https://abase.greenmindlabs.com/images/Virtualbox/Extension-Pack/12-VirtualBox.png)
 
-Feito o download é só executar a extensão que é multiplataforma.
+Feito o download é só executar a extensão que é multiplataforma , só precisamos selecionar e executar.
 
 ![Instalando Extension Pack](https://abase.greenmindlabs.com/images/Virtualbox/Extension-Pack/13-VirtualBox.png)
 
-Em seguida click em **instalar** como na imagem abaixo.
+Em seguida vamos aceitar clicando em **instalar** como na imagem abaixo.
 
 ![Instalando Extension Pack](https://abase.greenmindlabs.com/images/Virtualbox/Extension-Pack/14-VirtualBox.png)
 
@@ -37,18 +43,10 @@ Após clicar em aceito ele vai ser instalado.
 
 ![Instalando Extension Pack](https://abase.greenmindlabs.com/images/Virtualbox/Extension-Pack/16-VirtualBox.png)
 
-Após já vai estar tudo OK.
+Após já vai estar tudo OK e já com o Extension Pack instalado.
 
 ![Instalando Extension Pack](https://abase.greenmindlabs.com/images/Virtualbox/Extension-Pack/17-VirtualBox.png)
 
-## Instalação
-A instalação é simples pois é multiplataforma , só precisamos ficar de olho na versão utilizada.
-
-Baixada é apenas executar o arquivo baixado e fazer uma instalação padrão.
-
-```sh
- Next -> Next -> Next -> Yes -> Install -> Finish.
-```
 
 ## Referencias
-[Extension Pack] (https://www.virtualbox.org/wiki/Downloads)
+[Extension Pack](https://www.virtualbox.org/wiki/Downloads)

@@ -2,7 +2,7 @@
 
 Para instalar o VBox Additions no Windows XP vamos apenas precisar ir em Dispositivos -> Inserir imagem de CD dos Adicionais para convidado.
 
-![Instalação Virtualbox no Windows](https://abase.greenmindlabs.com/images/virtualizacao/Virtualbox/VBox-Additions/01-install-vbox-additions.png)
+![Instalação Virtualbox no Windows](https://raw.githubusercontent.com/ABase-BR/abase-br.github.io/master/images/Virtualbox/VBox-Additions/01-install-vbox-additions.png)
 
 ![Instalação Virtualbox no Windows](https://abase.greenmindlabs.com/images/virtualizacao/Virtualbox/VBox-Additions/02-install-vbox-additions.png)
 
