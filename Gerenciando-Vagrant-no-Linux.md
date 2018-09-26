@@ -1,9 +1,4 @@
 # Gerenciando o Vagrant no Linux
-!!! warning "Essa sessão ainda está em desenvolvimento"
-
-     Essa é uma versão básica para servir de referencia para amigos que estão começando.
-
-
 As opções podem variar dependendo da versão do **Vagrant** , vamos iniciar nossa primeira maquina.
 
 

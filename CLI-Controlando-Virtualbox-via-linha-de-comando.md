@@ -1,8 +1,63 @@
+Todos esses exemplos foram testados nos sistemas operacionais Windows.
+- 
+
+## Conhecendo o Power Shell
+O powershell é uma ferramenta multiplataforma, está disponivel para
+- Windows
+- Linux
+- Mac
+
+Ela é voltada para automação e configuração de sistema via scripts, ela é bem pareciada com o shell do Linux e Mac.
+
+Para abrir o **powershell** em nossa maquina , podemos executar no **CMD**.
+```sh
+powershell
+```
+
+Com o powershell aberto vamos até o diretorio 
+```sh
+C:\Program Files\Oracle\VirtualBox
+```
+
+Vamos listar o diretorio usando **ls** , ele é chamado de **list** pois ele nos retorna uma listagem de arquivos e diretorios.
+```sh
+ls
+```
+
+## Conhecendo o VBoxManage
+O VBoxManage é uma interface de gereciamento via linha de comando , vamos usar ele para controlar nosso virtualbox via linha de comando.
+ 
+Vamos executar o **VBoxManage.exe** , antes vamos checar e ver se estamos no diretorio do virtualbox **C:\Program Files\Oracle\VirtualBox**.
+
+Podemos usar o **pwd** para ver em qual diretorio estamos.
+```sh
+pwd
+```
+
+Vamos executar ele da seguinte forma , sem passar argumento para usar o padrão;
+```sh
+./VBoxManage.exe 
+```
+
+Podemos verificar a versão atual usando
+```sh
+./VBoxManage.exe -v
+```
+
 ## Listando maquinas virtuais
+Podemos listar maquinas usando o **list vms**.
 
-VBoxManage list vms
+Veja um exemplo a baixo seguido da imagem.
+```sh
+./VBoxManage.exe list vms
+```
 
-Podemos ver a saida da minha maquina
+
+Podemos ver o retorno na nossa maquina
+
+![Listar VMS](https://raw.githubusercontent.com/ABase-BR/abase-br.github.io/master/images/Virtualbox/CLI/Virtualbox-CLI-listar-VMS.png)
+
+Podemos ver a saida da minha maquina , a sua vai ser diferente dependendo do numero de maquinas que estiver usando.
 ```sh
 "Android" {d801c129-a7b4-401b-982d-df53a67cc1d3}
 "FreeBSD_11.1_amd64" {e01d7ecb-bde3-4fd2-8fa1-2991e47ad9c4}
@@ -19,16 +74,37 @@ Podemos ver a saida da minha maquina
 ```
 
 ## Iniciando maquina virtual
-
-VBoxManage startvm
-
+Para iniciar uma VM só precisamos usar o **startvm** seguido do nome da VM.
 
 Vamos iniciar o DebianServer
 ```sh
-VBoxManage startvm DebianServer 
+./VBoxManage.exe startvm DebianServer 
 ```
 
+## Importando uma VM
+Podemos importar uma maquina via linha de comando da seguinte forma , vamos imaginar que nossa imagem baixada está na area de trabalho.
 
-## Controlando VM
-Vamos ver a rede do servidor debian.
+A maquina usada é a
+- kali-linux-2018.3-vm-amd64.ova
 
+O local onde ele está é
+```sh
+C:\Users\Administrador\Desktop\
+```
+
+O comando completo fica
+```sh
+.\VBoxManage.exe import 'C:\Users\Administrador\Desktop\kali-linux-2018.3-vm-amd64.ova'
+```
+
+Depois de dar o comando podemos ver que ele vai ser retornado informações da VM
+
+![Instalando Extension Pack](https://github.com/ABase-BR/abase-br.github.io/blob/master/images/Virtualbox/CLI/Virtualbox-CLI-1.png)
+
+Podemos ver o comando inteiro na imagem a baixo
+
+![Instalando Extension Pack](https://github.com/ABase-BR/abase-br.github.io/blob/master/images/Virtualbox/CLI/Virtualbox-CLI-2.png)
+
+E se tudo der certo vamos ver a mensagem de retorno.
+
+![Instalando Extension Pack](https://github.com/ABase-BR/abase-br.github.io/blob/master/images/Virtualbox/CLI/Virtualbox-CLI-3.png)

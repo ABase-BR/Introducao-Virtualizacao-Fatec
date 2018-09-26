@@ -1,8 +1,4 @@
 # Instalando o Vagrant no Linux
-!!! warning "Essa sessão ainda está em desenvolvimento"
-
-     Essa é uma versão básica para servir de referencia para amigos que estão começando.
-
 
 Podemos baixar o Vagrant no site oficial
 ```sh
@@ -37,4 +33,4 @@ Abra o terminal e
 
 ## Referências
 
-Caixa de Ferramentas DevOps - ** Gleicon Moraes**
+Caixa de Ferramentas DevOps - **Gleicon Moraes**
