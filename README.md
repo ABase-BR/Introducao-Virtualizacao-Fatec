@@ -29,7 +29,7 @@ Esse material é introdutório para amigos que estão começando e precisam de u
 ## Vagrant
 - [O que é Vagrant](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/O-Que-e-o-Vagrant.md)
 
-- [Instalando o Vagrant no Linux](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/Gerenciando-Vagrant-no-Linux.md)
+- [Instalando o Vagrant no Windows](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/Instalando-Vagrant-no-Windows.md)
 
 - [Gerenciando Vagrant no Linux](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/Gerenciando-Vagrant-no-Linux.md)
 
