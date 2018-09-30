@@ -48,4 +48,4 @@ Por fim a nossa instalação já vai estar completa e podemos clicar em **Finish
 
 Agora só vamos precisar reiniciar a nossa maquina para que as configurações sejam feitas com sucesso.
 
-![Listar VMS](https://raw.githubusercontent.com/ABase-BR/abase-br.github.io/master/images/Vagrant/Install/Vagrant-Windows-Install-01.png)
+![Listar VMS](https://raw.githubusercontent.com/ABase-BR/abase-br.github.io/master/images/Vagrant/Install/Vagrant-Windows-Install-08.png)

@@ -31,11 +31,8 @@ Esse material é introdutório para amigos que estão começando e precisam de u
 
 - [Instalando o Vagrant no Windows](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/Instalando-Vagrant-no-Windows.md)
 
-- [Gerenciando Vagrant no Linux](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/Gerenciando-Vagrant-no-Linux.md)
+- [Gerenciando Vagrant no Windows](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/Gerenciando-Vagrant-no-Linux.md)
 
-- [Usando box Kali](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/Usando-box-Kali.md)
 
-- [Shell Script e Vagrant](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/Shell-Script-e-Vagrant.md)
 
-- [Inserindo box Windows no Vagrant](https://github.com/ABase-BR/Introducao-Virtualizacao-Fatec/blob/master/Inserindo-Box-Windows-no-Vagrant.md)
 
